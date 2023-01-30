@@ -70,26 +70,3 @@ export const items = [
         text: `Перевод статьи Lucas Fernandes da Costa “Y: The Most Beautiful Idea in Computer Science explained in JavaScript”`,
     },
 ];
-
-export const navList = [
-    {
-        id: 1,
-        link: `/`,
-        text: `Home`
-    },
-    {
-        id: 2,
-        link: `/#about`,
-        text: `About us`
-    },
-    {
-        id: 3,
-        link: `/#contact`,
-        text: `Contact us`
-    },
-    {
-        id: 4,
-        link: `/#help`,
-        text: `Help page`
-    },
-];
